@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'quimica',
+    'O que é ligação covalente?',
+    'é um tipo de ligação química onde átomos compartilham pares de elétrons para alcançar estabilidade, formando moléculas.'
 )
 
 criaCartao(
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'historia',
+    'quem governou o brasil de 1956 a 1961?',
+    'Juscelino Kubitschek.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz levantar em inglês?',
+    'se diz lift'
 )
