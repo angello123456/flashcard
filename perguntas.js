@@ -4,10 +4,11 @@ criaCartao(
     'é um tipo de ligação química onde átomos compartilham pares de elétrons para alcançar estabilidade, formando moléculas.'
 )
 
-criaCartao(
+
+criacartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da França?'
+    'A capital da França é Paris.'
 )
 
 criaCartao(
